@@ -1,5 +1,5 @@
 # relations
-Uni project - people and their friends - I/O operations
+Uni project - people and their friends - I/O operations, Files and Streams
 
 For each person list all their friends. <br>
 Input file structure: <br>
